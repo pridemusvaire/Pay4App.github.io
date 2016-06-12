@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Pay4App.github.io
+title: Gava blog
+tagline: Receive online payments with the phone in your pocket.
+description: Project updates & guides
+paginate: 5
